@@ -2,6 +2,8 @@
 ```
 brew install go
 
+versionを更新したい場合
+brew upgrade go
 ```
 
 # 準備
