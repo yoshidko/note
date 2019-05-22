@@ -25,6 +25,12 @@ docker run -p 4000:80 <Dockerイメージ名>
 docker container ls
 ```
 
+### コンテナ内に入る
+```
+docker exec -i -t <コンテナ名> /bin/bash
+```
+see http://docs.docker.jp/engine/reference/commandline/exec.html
+
 ### プロセスを停止
 ```
 docker stop <コンテナid>
