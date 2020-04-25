@@ -13,3 +13,12 @@ eval "$(direnv hook zsh)"
 ```
 brew install coreutils
 ```
+# peco
+```
+brew install peco
+```
+
+# zplug
+```
+brew install zplug
+``
