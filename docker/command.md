@@ -36,3 +36,12 @@ see http://docs.docker.jp/engine/reference/commandline/exec.html
 docker stop <コンテナid>
 ```
 
+### Docker Hubへのログインする
+```
+docker login
+```
+
+### Docker Hubのリポジトリへdocker imageをプッシュする
+```
+docker image push <YOUR_DOCKER_ID>/<YOUR_DOKCER_IMAGE_NAME>
+```
