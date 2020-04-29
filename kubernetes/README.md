@@ -1,4 +1,4 @@
 # Kubernetes
 
-- [kubectl](/kubectl.md)
-- [minikube](/minikube.md)
+- [kubectl](./kubectl.md)
+- [minikube](./minikube.md)
