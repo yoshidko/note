@@ -22,3 +22,8 @@ brew install peco
 ```
 brew install zplug
 ``
+
+# jq
+```
+brew install jq
+```
