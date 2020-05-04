@@ -17,3 +17,6 @@
 ## Pod
 - 一つ以上のコンテナのグループを表現するKubernetesオブジェクトである
 - クジラの小規模な群れを意味する用語である
+
+## 参考
+- [Kubernetesオブジェクトを理解する](https://kubernetes.io/ja/docs/concepts/overview/working-with-objects/kubernetes-objects/)
