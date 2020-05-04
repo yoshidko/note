@@ -27,3 +27,8 @@ brew install zplug
 ```
 brew install jq
 ```
+
+# kubespy
+```
+brew install kubespy
+```
