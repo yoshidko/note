@@ -14,9 +14,13 @@
 - ユーザが理想的な状態を定義する。指定された頻度で現在の状態を理想的な状態に変更する
 - コンテナの実行状況を継続的にチェックする。終了していることを検出した場合に即座に再起動するプログラムである
 
-## Pod
+## Podとは
 - 一つ以上のコンテナのグループを表現するKubernetesオブジェクトである
 - クジラの小規模な群れを意味する用語である
+
+## ReplicaSetとは
+- 同一のPod（レプリカグループ）を管理することである
+- DeploymentがPodを直接管理するのではなく、ReplicaSetが行う
 
 ## 参考
 - [Kubernetesオブジェクトを理解する](https://kubernetes.io/ja/docs/concepts/overview/working-with-objects/kubernetes-objects/)
