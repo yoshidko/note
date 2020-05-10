@@ -32,3 +32,11 @@ brew install jq
 ```
 brew install kubespy
 ```
+# kubectx
+```
+brew install kubectx
+```
+# stern
+```
+brew install stern
+```
